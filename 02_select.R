@@ -1,6 +1,6 @@
 ###############################################################
 # Script: 02_dplyr_select.R
-# 
+#  
 # Purpose:
 #   Demonstrate column selection in R using dplyr::select()
 #   including renaming, moving columns, and using helpers.
@@ -114,4 +114,5 @@ df %>%
 #
 # Stay tuned: Tomorrow we cover dplyr::mutate() to create new variables.
 ###############################################################
+
 
