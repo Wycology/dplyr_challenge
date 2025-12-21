@@ -3,4 +3,5 @@ In this repository I deposit scripts specifically for dplyr verbs. This is suite
 
 YouTube Videos: https://www.youtube.com/@wycology
 
-![31_day_free](https://github.com/user-attachments/assets/d99cff6e-a6cc-49b5-bcbb-b85972070db1)
+
+![31_day_free](https://github.com/user-attachments/assets/b18746f1-601f-4467-8c3e-84982d527b4b)
